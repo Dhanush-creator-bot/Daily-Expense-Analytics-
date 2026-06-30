@@ -53,47 +53,6 @@ The project separates client-side interface components from server-side proxy ro
 
 ---
 
-## 🚦 Getting Started
-
-### 1. Environment Configuration
-
-To unlock AI coach analytics, declare your API keys inside a `.env` file at the root:
-
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
-
-### 2. Dependency Installation
-
-Populate the project packages:
-
-```bash
-npm install
-```
-
-### 3. Execution Commands
-
-Use these scripts from `package.json` to coordinate development and production environments:
-
-*   **Development**: Boots the Express server in development mode with active hot-reloading for client assets via Vite.
-    ```bash
-    npm run dev
-    ```
-*   **Build Compilation**: Bundles client assets into high-performance static files (`dist/`) and packages the Express backend into `dist/server.cjs` via `esbuild`.
-    ```bash
-    npm run build
-    ```
-*   **Production Launch**: Runs the fully compiled self-contained bundle.
-    ```bash
-    npm run start
-    ```
-*   **Type Checking**: Checks the codebase for TypeScript errors.
-    ```bash
-    npm run lint
-    ```
-
----
-
 ## 📐 Design System & Usability Focus
 
 *   **Responsive Desktop & Mobile Layouts**: Clean sticky sidebars for wide screens collapsing into fluid bottom navigation bars for tactile mobile device use.
