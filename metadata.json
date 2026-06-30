@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expense Analytics Dashboard",
+  "description": "A personal finance dashboard to track daily transactions, monitor balances, and visualize spending habits through beautiful charts and AI-powered spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
