@@ -1,10 +1,10 @@
-# Daily Expense Analytics Dashboard 📊
+# Daily Expense Analytics Dashboard 
 
 A sophisticated, full-stack personal finance tracking and spending analysis application. Built with **React 19**, **Vite**, **Express**, and **Tailwind CSS**, it features seamless visual transitions with **Framer Motion**, immersive high-contrast dark/light mode, and advanced financial coaching powered by **Gemini 3.5 Flash** (`@google/genai` SDK).
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 *   **Continuous Transaction Logging**: Effortlessly create, update, delete, search, sort, and filter transaction logs (Income vs. Expenses). Support for automatic dataset seeding, database wiping (for testing empty states), and standard CSV data export.
 *   **Rich Interactive Charting**: Uses `recharts` to render beautiful, responsive visual representations of financial data:
