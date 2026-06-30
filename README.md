@@ -19,7 +19,7 @@ A sophisticated, full-stack personal finance tracking and spending analysis appl
 
 ---
 
-## 📁 Technical Architecture & Code Structure
+## Technical Architecture & Code Structure
 
 The project separates client-side interface components from server-side proxy routes to secure sensitive integration endpoints.
 
@@ -44,7 +44,7 @@ The project separates client-side interface components from server-side proxy ro
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 *   **Frontend**: React 19, TypeScript, Tailwind CSS, Framer Motion (`motion/react`), Lucide React, Canvas Confetti.
 *   **Backend**: Express, TSX, dotenv.
@@ -53,7 +53,7 @@ The project separates client-side interface components from server-side proxy ro
 
 ---
 
-## 📐 Design System & Usability Focus
+## Design System & Usability Focus
 
 *   **Responsive Desktop & Mobile Layouts**: Clean sticky sidebars for wide screens collapsing into fluid bottom navigation bars for tactile mobile device use.
 *   **Interactive Delight**: Includes physical spring mechanics on modal triggers, hover-staggered lists, and celebratory confetti showers upon successful income logging.
